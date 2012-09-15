@@ -27,19 +27,19 @@ The top-level bullet is the feature, and the sub-bullets indicate reasons:
 * Meta-Commenting System
      
      Comment on file without changing the file itself. Allows for conversation about what is being done to happen.
-    
-    Multiple accounts working on a file at once.
+
+* Multiple accounts working on a file at once.
        
        Obvious efficiency and collaboration purposes.
     
-    Easy indication who is making which changes to a file
+* Easy indication who is making which changes to a file
        
        Obvious credential purposes.
     
-    Embedding of files in other medium
+* Embedding of files in other medium
        
        Distribution purposes
     
-    Cross-platform
+* Cross-platform
        
        Does anything need to be said?
