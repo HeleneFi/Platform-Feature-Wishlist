@@ -1,3 +1,4 @@
+Starting with the idea of **:::Collaborating Like a Hacker:::** inspired by Harlan T Wood's well appreciated blog post: [What if we checked the commons into Github] (http://www.harlantwood.net/pub/What_if_We_Checked_the_Commons_into_Github/index.html)
 This repository is awaiting to be hosted by a collective account.
 
 Conversation-to-Action Pull Platform
