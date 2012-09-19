@@ -1,3 +1,5 @@
+This repository is awaiting to be hosted by a collective account.
+
 Conversation-to-Action Pull Platform
 ====================================
 
@@ -139,13 +141,13 @@ A  right-click option in web documents that would insert popup comparison  table
 A  hashtag comparison table when creating content on socialNets that  would, sort of the way Quora suggest topics, let you know what hashtags  most people are following related to your subject. (Zaq)
 
 
-**Video tagging and harvesting**
+**Tagging and harvesting multimedia**
 
-Interface  software to record our voices and send us all transcripts. Currently  > make an audio record of skype calls with (free) Callburner, or  video recording Skype calls with free Vodburner. Create transcripts from  Professional Edition of Dragon speech recognition software. Gizmo.
+* Interface  software to record our voices and send us all transcripts. Currently  > make an audio record of skype calls with (free) Callburner, or  video recording Skype calls with free Vodburner. Create transcripts from  Professional Edition of Dragon speech recognition software. Gizmo.
 
-Combine video chat with a text box and a twitter backchannel
+* Combine video chat with a text box and a twitter backchannel
 
-Printable  record that can be reviewed with highlighters of different colors and  analyzed for discovering patterns of connection and meaning that were  not readily graspable during the exchange, thus allowing to discover  further layers of what has been trying to be communicated through us  (George Por)
+* Printable record that can be reviewed with highlighters of different colors and  analyzed for discovering patterns of connection and meaning that were  not readily graspable during the exchange, thus allowing to discover  further layers of what has been trying to be communicated through us  (George Por)
 
 Make  an audio record of skype calls with Callburner which is free, and even  video recordings of skype video calls with free Vodburner. (Have them,  never used them, don’t know how good they are.) I imagine those digital  files could then be fed into the Professional Edition of Dragon speech  recognition software which can make text from digital audio files.
  
