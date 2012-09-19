@@ -1,13 +1,19 @@
 Conversation-to-Action Pull Platform
 ====================================
 
-Empowering a network of issues-related learning and collaborative environments leading to action. 
+Empowering a network of issues-related learning and collaborative environments leading to action. Its goal is to make open-ended conversations generative or 'productive' in terms of engagement, resources pulled and pooled, outputs and outcomes
 
-The  pull platform is a network of issues-related learning and collaborative  environments.
+Enabling technology and information to get to those who need it, to become a global collective intelligence solution and governance space
 
-Its goal is to make open-ended conversations generative or 'productive' in terms of engagement, resources pulled and pooled, outputs and outcomes
+We need to multiply the generative potential of conversations around social objects that  attract individual intentions into collective effort through an emergent  platform which enables: 
+* Harvesting and productivity of conversations
+* Contextual linking of objects and push pull
+* Visualization & navigation in contextualized data
+* Social network communication channels enabling communication
 
-Enable  technology and information to get to those who need it, to become a  global collective intelligence solution and governance space
+What is needed from the tool emerges readily when it is used in line with some embodied and meaningful purpose.
+
+##Harvesting & Making Conversations Productive
 
 We need conversations that are dynamic and ongoing and can adapt. (flow)
 
@@ -20,17 +26,7 @@ We need an infinite cannevas, that can enable lots of stuff.
 * Blogs don't respond to needs (no synthesis/merging of argumentation) 
 * [Blog as a tip of a wiki iceberg] (http://communitywiki.org/en/BlogControlledByWiki)?
 
-We need to multiply the generative potential of conversations around social objects that  attract individual intentions into collective effort through an emergent  platform which enables: 
-* Harvesting and productivity of conversations
-* Contextual linking of objects and push pull
-* Visualization & navigation in contextualized data
-* Social network communication channels enabling communication
-
-What is needed from the tool emerges readily when it is used in line with some embodied and meaningful purpose.
-
-##Harvesting & Making Conversations Productive
-
-###Requirements
+### Overall Requirements  
 
 Sharing & learning
 
@@ -44,7 +40,7 @@ Enable contextualization and cross-reference of data and content
 
 Contextualize interdependencies through visualization of linked data
 
-Enable  figuring out what is ongoing. Help people see what is happening.  Clearly showing progress and impact, 'evolution in the making' (making aware through engagement)
+Enable figuring out what is ongoing. Help people see what is happening.  Clearly showing progress and impact, 'evolution in the making' (making aware through engagement)
 
 Host and channel the emergence of new patterns. (actionable insights)
 
@@ -93,11 +89,55 @@ Visualization: How the mind works http://www.msci.memphis.edu/~franklin/paradigm
 
 ###Specific Features and possibilities
 
+**Framework - knowledege management system**
+
+* Tagging that allows allow for drill down hierarchies to form.
+     
+  > Allows a file to be found through multiple different associative network without having to keep multiple copies of a file.
+    
+* Syncing/Updating of files in different locations.
+     
+  > Similar to above, allows a file to updated across many locations. Prevents the necessity of finding the perfect place for the file to be found.
+    
+* The ability to create infinitely nested folder structures.
+     
+  > Obviously, for organization of topic/sub.
+    
+* Integration of folder structures with native file-systems
+     
+  > Allows for more access and easier migration. ( Wheel-Chair Ramps)
+    
+* Meta-Commenting System
+     
+  > Comment on file without changing the file itself. Allows for conversation about what is being done to happen.
+
+* Multiple accounts working on a file at once.
+       
+  > Obvious efficiency and collaboration purposes.
+    
+* Easy indication who is making which changes to a file
+       
+  > Obvious credential purposes.
+
+* Revision Histories
+     
+  > Documentation of RAW data changes over-time. Can be used, for example, to do processes analysis.    
+    
+* Embedding of files in other medium
+       
+  > Distribution purposes
+    
+* Cross-platform
+       
+  > Does anything need to be said?
+
+
 **Pinging**
 
 A  right-click option in web documents that would insert popup comparison  tables to fill in (visible to others via a subtle tag, or upon a cursor  mouseover). The popup tables might be embedded, conditionally-visible  new SocialCompare tables that would let us see side by side comments,  alternative wordings, related diagrams – or whatever people wanted to  offer. (Mark Frazier)
 
 A  hashtag comparison table when creating content on socialNets that  would, sort of the way Quora suggest topics, let you know what hashtags  most people are following related to your subject. (Zaq)
+
 
 **Video tagging and harvesting**
 
@@ -110,47 +150,3 @@ Printable  record that can be reviewed with highlighters of different colors and
 Make  an audio record of skype calls with Callburner which is free, and even  video recordings of skype video calls with free Vodburner. (Have them,  never used them, don’t know how good they are.) I imagine those digital  files could then be fed into the Professional Edition of Dragon speech  recognition software which can make text from digital audio files.
  
 
-**Framework**
-
-
-The top-level bullet is the feature, and the sub-bullets indicate reasons:
-
-* Tagging that allows allow for drill down hierarchies to form.
-     
-     Allows a file to be found through multiple different associative network without having to keep multiple copies of a file.
-    
-* Syncing/Updating of files in different locations.
-     
-     Similar to above, allows a file to updated across many locations. Prevents the necessity of finding the perfect place for the file to be found.
-    
-* The ability to create infinitely nested folder structures.
-     
-     Obviously, for organization of topic/sub.
-    
-* Integration of folder structures with native file-systems
-     
-     Allows for more access and easier migration. ( Wheel-Chair Ramps)
-    
-* Revision Histories
-     
-     Documentation of RAW data changes over-time. Can be used, for example, to do processes analysis.
-    
-* Meta-Commenting System
-     
-     Comment on file without changing the file itself. Allows for conversation about what is being done to happen.
-
-* Multiple accounts working on a file at once.
-       
-       Obvious efficiency and collaboration purposes.
-    
-* Easy indication who is making which changes to a file
-       
-       Obvious credential purposes.
-    
-* Embedding of files in other medium
-       
-       Distribution purposes
-    
-* Cross-platform
-       
-       Does anything need to be said?
