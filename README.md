@@ -1,24 +1,13 @@
-Conversation - to- Action Platform
-==================================
+Conversation-to-Action Pull Platform
+====================================
 
 Empowering a network of issues-related learning and collaborative environments leading to action. 
 
-The  pull platform is a network of issues-related learning and collaborative  environments. Based on three important modules:
+The  pull platform is a network of issues-related learning and collaborative  environments.
 
-* Harvesting and productivity of conversations
-* Contextual linking of objects and push pull
-* Visualization & navigation in contextualized data
-* Social network communication channels enabling communication
-
-What is needed from the tool emerges readily when it is used in line with some embodied and meaningful purpose.
-
-##Harvesting & Making Conversations Productive
-
-Make open-ended conversations generative or 'productive' in terms of engagement, resources pulled and pooled, outputs and outcomes
+Its goal is to make open-ended conversations generative or 'productive' in terms of engagement, resources pulled and pooled, outputs and outcomes
 
 Enable  technology and information to get to those who need it, to become a  global collective intelligence solution and governance space
-
-Multiply the generative potential of conversations around social objects that  attract individual intentions into collective effort through an emergent  platform.
 
 We need conversations that are dynamic and ongoing and can adapt. (flow)
 
@@ -31,6 +20,15 @@ We need an infinite cannevas, that can enable lots of stuff.
 * Blogs don't respond to needs (no synthesis/merging of argumentation) 
 * [Blog as a tip of a wiki iceberg] (http://communitywiki.org/en/BlogControlledByWiki)?
 
+We need to multiply the generative potential of conversations around social objects that  attract individual intentions into collective effort through an emergent  platform which enables: 
+* Harvesting and productivity of conversations
+* Contextual linking of objects and push pull
+* Visualization & navigation in contextualized data
+* Social network communication channels enabling communication
+
+What is needed from the tool emerges readily when it is used in line with some embodied and meaningful purpose.
+
+##Harvesting & Making Conversations Productive
 
 ###Requirements
 
@@ -112,9 +110,8 @@ Printable  record that can be reviewed with highlighters of different colors and
 Make  an audio record of skype calls with Callburner which is free, and even  video recordings of skype video calls with free Vodburner. (Have them,  never used them, don’t know how good they are.) I imagine those digital  files could then be fed into the Professional Edition of Dragon speech  recognition software which can make text from digital audio files.
  
 
+**Framework**
 
-**Platfrom
-This May be better done in a Spreadsheet, which, then we can use to compare various platforms. This will work for now.
 
 The top-level bullet is the feature, and the sub-bullets indicate reasons:
 
