@@ -85,12 +85,12 @@ Need infrastructure on which to build this
 Put on top structure, processes, protocols - organizing metaphors, narratives, enablers
 
 
-###References
+### References
 
 Visualization: How the mind works http://www.msci.memphis.edu/~franklin/paradigm.html
 
 
-###Specific Features and possibilities
+### Specific Features and possibilities
 
 **Framework - knowledege management system**
 
