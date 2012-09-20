@@ -16,7 +16,7 @@ We need to multiply the generative potential of conversations around social obje
 
 What is needed from the tool emerges readily when it is used in line with some embodied and meaningful purpose.
 
-##Harvesting & Making Conversations Productive
+## Harvesting & Making Conversations Productive
 
 We need conversations that are dynamic and ongoing and can adapt. (flow)
 
